@@ -1,0 +1,4 @@
+# Ingore any binaries and Emacs backups.
+main
+*.o
+*~
